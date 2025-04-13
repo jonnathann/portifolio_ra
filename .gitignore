@@ -1,2 +1,3 @@
 env_ra/
-*.csv
+data/raw/*.csv
+
