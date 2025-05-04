@@ -1,0 +1,24 @@
+,Pergunta,Categoria,Resposta
+0,Quais são os sintomas da gripe?,gripe,"Os sintomas da gripe incluem febre, dor no corpo, calafrios, dor de garganta e tosse."
+1,"Estou com febre e dor no corpo, é gripe?",gripe,"Esses sintomas são comuns na gripe. Se você estiver com tosse e dor no corpo também, pode ser a gripe."
+2,Como saber se estou gripado?,gripe,"A gripe geralmente apresenta febre, calafrios, dor de cabeça e dor muscular. Se você tiver esses sintomas, é possível que seja gripe."
+3,Quais os sintomas de um infarto?,cardiologia,"Os sintomas incluem dor no peito, falta de ar, dor nas costas e suor excessivo."
+4,"Estou com dor no peito e falta de ar, isso pode ser um infarto?",cardiologia,"Sim, esses podem ser sintomas de infarto. Procure ajuda médica imediatamente."
+5,Como posso tratar acne?,dermatologia,"A acne pode ser tratada com medicamentos tópicos, como peróxido de benzoíla ou cremes com retinoides."
+6,"Tenho espinhas no rosto, o que devo fazer?",dermatologia,"Você pode usar cremes específicos para acne e evitar apertar as espinhas. Se necessário, consulte um dermatologista."
+7,O que é depressão?,saude_mental,"A depressão é um transtorno mental caracterizado por sentimentos persistentes de tristeza, perda de interesse nas atividades diárias e cansaço extremo."
+8,Quais são os sintomas da depressão?,saude_mental,"Os sintomas incluem tristeza constante, dificuldade de concentração, insônia ou sono excessivo, e perda de apetite."
+9,Qual a melhor dieta para perder peso?,nutricao,"Uma dieta balanceada, com controle de calorias e aumento do consumo de vegetais, é eficaz para perda de peso."
+10,Devo cortar carboidratos para emagrecer?,nutricao,Não é necessário cortar carboidratos totalmente. O importante é escolher carboidratos saudáveis e consumi-los com moderação.
+11,Vocês aceitam plano de saúde X?,convenios,"Sim, aceitamos o plano de saúde X. Você pode consultar as coberturas diretamente com nossa recepção."
+12,Quais planos de saúde vocês aceitam?,convenios,"Aceitamos planos como Amil, Bradesco Saúde e Unimed. Consulte as condições com a recepção."
+13,Como posso agendar uma consulta?,consultas,Você pode agendar sua consulta através do nosso portal online ou entrando em contato com a recepção.
+14,Preciso levar algum exame para a consulta?,consultas,"Recomendamos que leve os exames mais recentes, caso tenha algum, para facilitar a avaliação do médico."
+15,Qual o melhor tratamento para dor nas costas?,ortopedia,"O tratamento pode incluir fisioterapia, medicamentos anti-inflamatórios e, em alguns casos, cirurgia."
+16,"Estou com dor nas costas, o que pode ser?",ortopedia,"A dor nas costas pode ser causada por tensão muscular, problemas na coluna ou até uma hérnia. É importante procurar um médico para diagnóstico."
+17,Quais exames devo fazer para checar a saúde do coração?,cardiologia,"Os exames mais comuns incluem o eletrocardiograma (ECG), ecocardiograma e testes de esforço."
+18,Como posso saber se meu colesterol está alto?,cardiologia,"Você pode verificar seu colesterol através de um exame de sangue chamado lipidograma, que mede os níveis de colesterol e triglicerídeos."
+19,"Estou com febre alta e dor no corpo, o que pode ser?",gripe,"Esses sintomas podem ser causados por várias condições, como a gripe ou até a Covid-19. Você já teve contato com alguém que testou positivo para Covid-19 recentemente?"
+20,"Não, mas estou com tosse também.",gripe,A tosse junto com febre é uma característica comum da gripe. Recomendo que você procure um médico para uma avaliação mais detalhada.
+21,Como saber se a dor nas costas é grave?,ortopedia,"A dor nas costas pode ser grave se for acompanhada de dormência, fraqueza nas pernas ou dificuldade de movimentação. Caso esses sintomas apareçam, procure um médico imediatamente."
+22,"Estou com muita dor de cabeça, o que posso fazer?",neurologia,"Se a dor de cabeça for muito forte e persistir, pode ser sinal de enxaqueca ou outro problema. Tente descansar em um local tranquilo e tomar um analgésico, mas se persistir, consulte um médico."
